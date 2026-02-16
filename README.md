@@ -13,11 +13,14 @@ Para realizar estos laboratorios necesitarás un entorno de Python 3.x con las s
 * `numpy`
 * `scipy`
 * `matplotlib`
-* `jupyterlab` o `notebook`
+* `jupyterlab` o `notebook` (instrucciones de como instalar)
+
+Introduccion a jupyter notebook y programacion cientifica en python:
+* link
 
 ## 📅 Calendario de Sesiones
 
-A continuación se detalla la planificación del semestre (13 de Marzo - 26 de Junio).
+A continuación se detalla la planificación del primer semestre de 2026 (04 de Marzo - 26 de Junio).
 
 | Semana | Fecha | Tópico / Actividad | Estado | Enlace al Material |
 | :--- | :--- | :--- | :--- | :--- |
@@ -33,10 +36,10 @@ A continuación se detalla la planificación del semestre (13 de Marzo - 26 de J
 | **Lab 08** | 15 de Mayo | Aproximación de Funciones (Mínimos Cuadrados) | 📅 Pendiente | [Lab 08](./Lab08/) |
 | **Lab 09** | 22 de Mayo | Integración Numérica (Cuadratura) | 📅 Pendiente | [Lab 09](./Lab09/) |
 | **Lab 10** | 29 de Mayo | Diferenciación Numérica | 📅 Pendiente | [Lab 10](./Lab10/) |
-| **Lab 11** | 05 de Junio | EDOs: Métodos de un paso (Euler, Runge-Kutta) | 📅 Pendiente | [Lab 11](./Lab11/) |
-| **Lab 12** | 12 de Junio | EDOs: Métodos Multipaso / Rigidez | 📅 Pendiente | [Lab 12](./Lab12/) |
-| **Lab 13** | 19 de Junio | Repaso / Tópicos Avanzados (FEM Intro) | 📅 Pendiente | [Lab 13](./Lab13/) |
-| **Lab 14** | 26 de Junio | Actividad Final / Cierre | 📅 Pendiente | [Lab 14](./Lab14/) |
+| **Lab 11** | 05 de Junio | | 📅 Pendiente | [Lab 11](./Lab11/) |
+| **Lab 12** | 12 de Junio | | 📅 Pendiente | [Lab 12](./Lab12/) |
+| **Lab 13** | 19 de Junio | | 📅 Pendiente | [Lab 13](./Lab13/) |
+| **Lab 14** | 26 de Junio | | 📅 Pendiente | [Lab 14](./Lab14/) |
 
 ## 📦 Instrucciones de Entrega
 
