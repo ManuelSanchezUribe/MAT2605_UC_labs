@@ -34,7 +34,7 @@ A continuación se detalla la planificación del primer semestre de 2026 (04 de 
 | **—** | **01 de Mayo** | *Feriado: Día del Trabajador* | 🏖️ Descanso | — |
 | **Lab 07** | 08 de Mayo | Interpolación Polinomial - evaluacion| 📅 Pendiente | [Lab 07](./Lab07/) |
 | **Lab 08** | 15 de Mayo | Aproximación de Funciones (Mínimos Cuadrados) | 📅 Pendiente | [Lab 08](./Lab08/) |
-| **Lab 09** | 22 de Mayo | Integración Numérica (Cuadratura) - evaluacion| 📅 Pendiente | [Lab 09](./Lab09/) |
+| **Lab 09** | 22 de Mayo | Receso de docencia| 📅 Pendiente | [Lab 09](./Lab09/) |
 | **Lab 10** | 29 de Mayo | Diferenciación Numérica | 📅 Pendiente | [Lab 10](./Lab10/) |
 | **Lab 11** | 05 de Junio | | 📅 Pendiente | [Lab 11](./Lab11/) |
 | **Lab 12** | 12 de Junio | | 📅 Pendiente - evaluacion| [Lab 12](./Lab12/) |
