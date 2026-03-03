@@ -14,9 +14,9 @@ Para estos laboratorios necesitarás Python 3.x y las librerías científicas `n
 | :--- | :--- | :--- |
 | **1. Local (Recomendado)** | Instalación en tu propio computador. | Abre tu terminal y ejecuta:<br>`pip install numpy scipy matplotlib jupyterlab`<br>Luego inicia el entorno con:<br>`jupyter lab` |
 | **2. Google Colab** | Entorno en la nube (no requiere instalación). | Sube este archivo `.ipynb` a tu Google Drive y ábrelo directamente con Google Colab. Las librerías ya vienen preinstaladas. |
-| **3. Binder** | Entorno web interactivo y temporal. | Haz clic en el botón de Binder en el repositorio del curso. <br>**Importante:** Descarga tu notebook (`File > Download`) antes de cerrar la pestaña para no perder tus respuestas. |
+| **3. Binder** | Entorno web interactivo y temporal. | Haz clic en el botón de Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MAT2605_UC_labs/main?urlpath=lab/tree/README.md). <br>**Importante:** Descarga tu notebook (`File > Download`) antes de cerrar la pestaña para no perder tus respuestas. |
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MAT2605_UC_labs/main?urlpath=lab/tree/README.md)
+
 
 
 
@@ -24,25 +24,25 @@ Para estos laboratorios necesitarás Python 3.x y las librerías científicas `n
 
 A continuación se detalla la planificación del primer semestre de 2026 (04 de Marzo - 26 de Junio).
 
-| Semana | Fecha | Tópico / Actividad | Enlace Binder | Enlace al Material |
-| :--- | :--- | :--- | :--- | :--- |
-| **Lab 00** | 06 de Marzo | Introduccion a Jupyter Notebook | | [Lab 00](./LabIntro/)|
-| **Lab 01** | 13 de Marzo | Introducción a Python Científico & Aritmética de Punto Flotante |  | [Lab 01](./Lab01/) |
-| **Lab 02** | 20 de Marzo | Sistemas Lineales: Métodos Directos - evaluacion |  | [Lab 02](./Lab02/) |
-| **Lab 03** | 27 de Marzo | Factorización LU y Cholesky | | [Lab 03](./Lab03/) |
-| **—** | **03 de Abril** | *Feriado: Viernes Santo* |  | — |
-| **Lab 04** | 10 de Abril | Métodos Iterativos (Jacobi, Gauss-Seidel) - evaluacion | | [Lab 04](./Lab04/) |
-| **—** | 17 de Abril | *Interrogacion I - 16 de Abril* |  | — |
-| **Lab 05** | 24 de Abril |  |  | [Lab 05](./Lab05/) |
-| **—** | **01 de Mayo** | *Feriado: Día del Trabajador* |  | — |
-| **—** | 08 de Mayo | *Interrogacion II - 06 de Mayo* |  | — |
-| **Lab 06** | 15 de Mayo | Problemas de Valores Propios - evaluacion|  | [Lab 06](./Lab06/) |
-| **—** | 22 de Mayo | Receso de docencia | | — |
-| **Lab 07** | 29 de Mayo | Interpolación Polinomial - evaluacion|  | [Lab 07](./Lab07/) |
-| **—** | 05 de Junio | *Interrogacion III - 02 de Junio* |  | — |
-| **Lab 08** | 12 de Junio | Aproximación de Funciones (Mínimos Cuadrados) - evaluacion|  | [Lab 08](./Lab08/) |
-| **Lab 10** | 19 de Junio | Diferenciación Numérica |  | [Lab 10](./Lab10/) |
-| **Lab 11** | 26 de Junio | Integración Numérica - evaluacion |  | [Lab 11](./Lab11/) |
+| Semana | Fecha | Tópico / Actividad | Enlace al Material |
+| :--- | :--- | :--- | :--- |
+| **Lab 00** | 06 de Marzo | Introduccion a Jupyter Notebook  | [Lab 00](./LabIntro/)|
+| **Lab 01** | 13 de Marzo | Introducción a Python Científico & Aritmética de Punto Flotante   | [Lab 01](./Lab01/) |
+| **Lab 02** | 20 de Marzo | Sistemas Lineales: Métodos Directos - evaluacion  | [Lab 02](./Lab02/) |
+| **Lab 03** | 27 de Marzo | Factorización LU y Cholesky | [Lab 03](./Lab03/) |
+| **—** | **03 de Abril** | *Feriado: Viernes Santo* |  — |
+| **Lab 04** | 10 de Abril | Métodos Iterativos (Jacobi, Gauss-Seidel) - evaluacion | [Lab 04](./Lab04/) |
+| **—** | 17 de Abril | *Interrogacion I - 16 de Abril* |  — |
+| **Lab 05** | 24 de Abril |   | [Lab 05](./Lab05/) |
+| **—** | **01 de Mayo** | *Feriado: Día del Trabajador* |  — |
+| **—** | 08 de Mayo | *Interrogacion II - 06 de Mayo* |  — |
+| **Lab 06** | 15 de Mayo | Problemas de Valores Propios - evaluacion|  [Lab 06](./Lab06/) |
+| **—** | 22 de Mayo | Receso de docencia | — |
+| **Lab 07** | 29 de Mayo | Interpolación Polinomial - evaluacion|  [Lab 07](./Lab07/) |
+| **—** | 05 de Junio | *Interrogacion III - 02 de Junio* |  — |
+| **Lab 08** | 12 de Junio | Aproximación de Funciones (Mínimos Cuadrados) - evaluacion|  [Lab 08](./Lab08/) |
+| **Lab 10** | 19 de Junio | Diferenciación Numérica |  [Lab 10](./Lab10/) |
+| **Lab 11** | 26 de Junio | Integración Numérica - evaluacion |  [Lab 11](./Lab11/) |
 
 <!---
 ## 📦 Instrucciones de Entrega
