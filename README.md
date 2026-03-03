@@ -12,7 +12,7 @@ Para estos laboratorios necesitarás Python 3.x y las librerías científicas `n
 
 | Entorno | Descripción | Instrucciones de uso |
 | :--- | :--- | :--- |
-| **1. Local (Recomendado)** | Instalación en tu propio computador. | Abre tu terminal y ejecuta:<br>`pip install numpy scipy matplotlib jupyterlab`<br>Luego inicia el entorno con:<br>`jupyter notebbok` o  `jupyter lab`|
+| **1. Local (Recomendado)** | Instalación en tu propio computador. | Abre tu terminal y ejecuta:<br>`pip install numpy scipy matplotlib jupyterlab`<br>Luego inicia el entorno con:<br>`jupyter notebook` o  `jupyter lab`|
 | **2. Google Colab** | Entorno en la nube (no requiere instalación). | Sube este archivo `.ipynb` a tu Google Drive y ábrelo directamente con Google Colab. Las librerías ya vienen preinstaladas. |
 | **3. Binder** | Entorno web interactivo y temporal. | Haz clic en el botón de Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MAT2605_UC_labs/main?urlpath=lab/tree/README.md). <br>**Importante:** Descarga tu notebook (`File > Download`) antes de cerrar la pestaña para no perder tus respuestas. |
 
@@ -26,7 +26,7 @@ A continuación se detalla la planificación del primer semestre de 2026 (04 de 
 
 | Semana | Fecha | Tópico / Actividad | Enlace al Material |
 | :--- | :--- | :--- | :--- |
-| **Lab 00** | 06 de Marzo | Introduccion a Jupyter Notebook  | [Lab 00](./LabIntro/)|
+| **Lab 00** | 06 de Marzo | Introduccion a Jupyter Notebook (autoestudio, no es presencial) | [Lab 00](./LabIntro/)|
 | **Lab 01** | 13 de Marzo | Introducción a Python Científico & Aritmética de Punto Flotante   | [Lab 01](./Lab01/) |
 | **Lab 02** | 20 de Marzo | Sistemas Lineales: Métodos Directos - evaluacion  | [Lab 02](./Lab02/) |
 | **Lab 03** | 27 de Marzo | Factorización LU y Cholesky | [Lab 03](./Lab03/) |
