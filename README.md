@@ -44,6 +44,20 @@ A continuación se detalla la planificación del primer semestre de 2026 (04 de 
 | **Lab 10** | 19 de Junio | Diferenciación Numérica |  [Lab 10](./Lab10/) |
 | **Lab 11** | 26 de Junio | Integración Numérica - evaluacion |  [Lab 11](./Lab11/) |
 
+## Instrucciones de Instalacion. Ejecución Local (Recomendada)
+Para esta opción necesitarás un entorno de Python 3.x. Te recomendamos instalar **Anaconda** (que ya incluye todo lo necesario) o usar el gestor de paquetes `pip`. 
+
+Las librerías científicas requeridas para estos laboratorios son:
+* `numpy`: Para computación matricial y vectorial.
+* `scipy`: Para algoritmos de optimización, integración y ecuaciones diferenciales.
+* `matplotlib`: Para la generación de gráficos y visualización de datos.
+* `jupyterlab` o `notebook`: Para abrir y ejecutar los archivos `.ipynb`.
+
+**Instrucciones de instalación vía `pip`:**
+Abre tu terminal (o símbolo del sistema en Windows) y ejecuta el siguiente comando:
+```bash
+pip install numpy scipy matplotlib jupyterlab
+
 <!---
 ## 📦 Instrucciones de Entrega
 
