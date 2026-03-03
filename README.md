@@ -2,7 +2,7 @@
 
 Bienvenido al repositorio oficial de los laboratorios del curso **MAT2605 Cálculo Científico**. Aquí encontrarás las guías, *notebooks* (Jupyter) y códigos fuente necesarios para las sesiones prácticas del semestre.
 
-**Profesor:** Thomas Fuhrer y Manuel A. Sánchez  
+**Profesor:** Thomas Führer y Manuel A. Sánchez  
 **Horario:** Viernes  
 **Lugar:** Laboratorio de Computación (Por confirmar)
 
