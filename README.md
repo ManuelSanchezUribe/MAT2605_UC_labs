@@ -24,6 +24,7 @@ A continuación se detalla la planificación del primer semestre de 2026 (04 de 
 
 | Semana | Fecha | Tópico / Actividad | Estado | Enlace al Material |
 | :--- | :--- | :--- | :--- | :--- |
+| **Lab 00** | 06 de Marzo | Introduccion a Jupyter Notebook | | [Lab 00](./LabIntro/)|
 | **Lab 01** | 13 de Marzo | Introducción a Python Científico & Aritmética de Punto Flotante | 📅 Pendiente | [Lab 01](./Lab01/) |
 | **Lab 02** | 20 de Marzo | Sistemas Lineales: Métodos Directos - evaluacion | 📅 Pendiente | [Lab 02](./Lab02/) |
 | **Lab 03** | 27 de Marzo | Factorización LU y Cholesky | 📅 Pendiente | [Lab 03](./Lab03/) |
