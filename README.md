@@ -16,7 +16,7 @@ Para estos laboratorios necesitarás Python 3.x y las librerías científicas `n
 | **2. Google Colab** | Entorno en la nube (no requiere instalación). | Sube este archivo `.ipynb` a tu Google Drive y ábrelo directamente con Google Colab. Las librerías ya vienen preinstaladas. |
 | **3. Binder** | Entorno web interactivo y temporal. | Haz clic en el botón de Binder en el repositorio del curso. <br>**Importante:** Descarga tu notebook (`File > Download`) antes de cerrar la pestaña para no perder tus respuestas. |
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MAT2605_UC_labs/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MAT2605_UC_labs/main?urlpath=lab/tree/README.md)
 
 
 
