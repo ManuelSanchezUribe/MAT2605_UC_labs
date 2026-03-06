@@ -4,7 +4,7 @@ Bienvenido al repositorio oficial de los laboratorios del curso **MAT2605 Cálcu
 
 **Profesor:** Thomas Führer y Manuel A. Sánchez  
 **Horario:** Viernes  
-**Lugar:** Laboratorio de Computación (Por confirmar)
+**Lugar:** Laboratorio de Computación *CS104*
 
 ## 🛠 Requisitos y Entornos de Trabajo
 
