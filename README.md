@@ -29,7 +29,7 @@ A continuación se detalla la planificación del primer semestre de 2026 (04 de 
 | **Lab 00** | 06 de Marzo | Introduccion a Jupyter Notebook (autoestudio, no es presencial) | [Lab 00](./LabIntro/)|
 | **Lab 01** | 13 de Marzo | Introducción a Python Científico & Aritmética de Punto Flotante   | [Lab 01](./Lab01/) |
 | **Lab 02** | 20 de Marzo | Sistemas Lineales: Métodos Directos - evaluacion  | [Lab 02](./Lab02/) |
-| **Lab 03** | 27 de Marzo | Factorización LU y Cholesky | [Lab 03](./Lab03/) |
+| **Lab 03** | 27 de Marzo | Normas, n&uacute;mero de condici&oacute;n, m&eacute;todos iterativos | [Lab 03](./Lab03/) |
 | **—** | **03 de Abril** | *Feriado: Viernes Santo* |  — |
 | **Lab 04** | 10 de Abril | Métodos Iterativos (Jacobi, Gauss-Seidel) - evaluacion | [Lab 04](./Lab04/) |
 | **—** | 17 de Abril | *Interrogacion I - 16 de Abril* |  — |
