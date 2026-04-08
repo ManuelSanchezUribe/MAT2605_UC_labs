@@ -33,10 +33,10 @@ A continuación se detalla la planificación del primer semestre de 2026 (04 de 
 | **—** | **03 de Abril** | *Feriado: Viernes Santo* |  — |
 | **Lab 04** | 10 de Abril | Métodos Iterativos (Jacobi, Gauss-Seidel) - evaluacion | [Lab 04](./Lab04/) |
 | **—** | 17 de Abril | *Interrogacion I - 16 de Abril* |  — |
-| **Lab 05** | 24 de Abril |   | [Lab 05](./Lab05/) |
+| **Lab 05** | 24 de Abril |  Valores propios | [Lab 05](./Lab05/) |
 | **—** | **01 de Mayo** | *Feriado: Día del Trabajador* |  — |
 | **—** | 08 de Mayo | *Interrogacion II - 06 de Mayo* |  — |
-| **Lab 06** | 15 de Mayo | Problemas de Valores Propios - evaluacion|  [Lab 06](./Lab06/) |
+| **Lab 06** | 15 de Mayo | Valores Propios / ecuaciones no lineales - evaluacion|  [Lab 06](./Lab06/) |
 | **—** | 22 de Mayo | Receso de docencia | — |
 | **Lab 07** | 29 de Mayo | Interpolación Polinomial - evaluacion|  [Lab 07](./Lab07/) |
 | **—** | 05 de Junio | *Interrogacion III - 02 de Junio* |  — |
