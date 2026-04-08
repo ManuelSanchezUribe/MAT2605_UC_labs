@@ -41,8 +41,8 @@ A continuación se detalla la planificación del primer semestre de 2026 (04 de 
 | **Lab 07** | 29 de Mayo | Interpolación Polinomial - evaluacion|  [Lab 07](./Lab07/) |
 | **—** | 05 de Junio | *Interrogacion III - 02 de Junio* |  — |
 | **Lab 08** | 12 de Junio | Aproximación de Funciones (Mínimos Cuadrados) - evaluacion|  [Lab 08](./Lab08/) |
-| **Lab 10** | 19 de Junio | Diferenciación Numérica |  [Lab 10](./Lab10/) |
-| **Lab 11** | 26 de Junio | Integración Numérica - evaluacion |  [Lab 11](./Lab11/) |
+| **Lab 09** | 19 de Junio | Diferenciación Numérica |  [Lab 09](./Lab09/) |
+| **Lab 10** | 26 de Junio | Integración Numérica - evaluacion |  [Lab 10](./Lab10/) |
 
 **Instrucciones de instalación vía `pip`:**
 Abre tu terminal (o símbolo del sistema en Windows) y ejecuta el siguiente comando:
