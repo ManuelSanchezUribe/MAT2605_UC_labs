@@ -2,3 +2,5 @@
 */.ipynb_checkpoints/*
 .jupyter_ystore.db
 */.jupyter_ystore.db/*
+.jupyter/
+*/.jupyter/
