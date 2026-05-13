@@ -28,21 +28,21 @@ A continuación se detalla la planificación del primer semestre de 2026 (04 de 
 | :--- | :--- | :--- | :--- |
 | **Lab 00** | 06 de Marzo | Introduccion a Jupyter Notebook (autoestudio, no es presencial) | [Lab 00](./LabIntro/)|
 | **Lab 01** | 13 de Marzo | Introducción a Python Científico & Aritmética de Punto Flotante   | [Lab 01](./Lab01/) |
-| **Lab 02** | 20 de Marzo | Sistemas Lineales: Métodos Directos - evaluacion  | [Lab 02](./Lab02/) |
+| **Lab 02** | 20 de Marzo | Sistemas Lineales: Métodos Directos - evaluaci&oacute;n  | [Lab 02](./Lab02/) |
 | **Lab 03** | 27 de Marzo | Normas, n&uacute;mero de condici&oacute;n, m&eacute;todos iterativos | [Lab 03](./Lab03/) |
 | **—** | **03 de Abril** | *Feriado: Viernes Santo* |  — |
-| **Lab 04** | 10 de Abril | Métodos Iterativos (Jacobi, Gauss-Seidel) - evaluacion | [Lab 04](./Lab04/) |
+| **Lab 04** | 10 de Abril | Métodos Iterativos (Jacobi, Gauss-Seidel) - evaluaci&oacute;n | [Lab 04](./Lab04/) |
 | **—** | 17 de Abril | *Interrogacion I - 16 de Abril* |  — |
 | **Lab 05** | 24 de Abril |  Valores propios | [Lab 05](./Lab05/) |
 | **—** | **01 de Mayo** | *Feriado: Día del Trabajador* |  — |
 | **—** | 08 de Mayo | *Interrogacion II - 06 de Mayo* |  — |
-| **Lab 06** | 15 de Mayo | Valores Propios / ecuaciones no lineales - evaluacion|  [Lab 06](./Lab06/) |
+| **Lab 06** | 15 de Mayo | Ecuaciones no lineales - evaluaci&oacute;n|  [Lab 06](./Lab06/) |
 | **—** | 22 de Mayo | Receso de docencia | — |
-| **Lab 07** | 29 de Mayo | Interpolación Polinomial - evaluacion|  [Lab 07](./Lab07/) |
+| **Lab 07** | 29 de Mayo | Interpolación Polinomial - evaluaci&oacute;n|  [Lab 07](./Lab07/) |
 | **—** | 05 de Junio | *Interrogacion III - 02 de Junio* |  — |
-| **Lab 08** | 12 de Junio | Aproximación de Funciones (Mínimos Cuadrados) - evaluacion|  [Lab 08](./Lab08/) |
+| **Lab 08** | 12 de Junio | Aproximación de Funciones (Mínimos Cuadrados) - evaluaci&oacute;n|  [Lab 08](./Lab08/) |
 | **Lab 09** | 19 de Junio | Diferenciación Numérica |  [Lab 09](./Lab09/) |
-| **Lab 10** | 26 de Junio | Integración Numérica - evaluacion |  [Lab 10](./Lab10/) |
+| **Lab 10** | 26 de Junio | Integración Numérica - evaluaci&oacute;n |  [Lab 10](./Lab10/) |
 
 **Instrucciones de instalación vía `pip`:**
 Abre tu terminal (o símbolo del sistema en Windows) y ejecuta el siguiente comando:
@@ -60,4 +60,4 @@ Las entregas se realizarán a través de [Canvas/GitHub Classroom] antes del ini
 3.  Sube tu solución a tu repositorio personal o envíalo según las indicaciones del ayudante.
 -->
 ---
-*Última actualización: Marzo 2026*
+*Última actualización: Mayo 2026*
