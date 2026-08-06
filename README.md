@@ -13,8 +13,8 @@ Para estos laboratorios necesitarás Python 3.x y las librerías científicas `n
 | Entorno | Descripción | Instrucciones de uso |
 | :--- | :--- | :--- |
 | **1. Local (Recomendado)** | Instalación en tu propio computador. | Abre tu terminal y ejecuta:<br>`pip install numpy scipy matplotlib jupyterlab`<br>Luego inicia el entorno con:<br>`jupyter notebook` o  `jupyter lab`|
-| **2. Google Colab** | Entorno en la nube (no requiere instalación). | Sube este archivo `.ipynb` a tu Google Drive y ábrelo directamente con Google Colab. Las librerías ya vienen preinstaladas. |
-| **3. Binder** | Entorno web interactivo y temporal. | Haz clic en el botón de Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MAT2605_UC_labs/main?urlpath=lab/tree/README.md). <br>**Importante:** Descarga tu notebook (`File > Download`) antes de cerrar la pestaña para no perder tus respuestas. |
+| **2. Google Colab** | Entorno en la nube (no requiere instalación). |  Abre los links directamente. Puedes adaemas guardar tu avance con una cuenta google al subir este archivo `.ipynb` a tu Google Drive. Las librerías ya vienen preinstaladas. |
+
 
 
 
@@ -22,9 +22,9 @@ Para estos laboratorios necesitarás Python 3.x y las librerías científicas `n
 
 ## 📅 Calendario de Sesiones
 
-A continuación se detalla la planificación del primer semestre de 2026 (04 de Marzo - 26 de Junio).
+A continuación se detalla la planificación del **segundo semestre de 2026** (05 de agosto -  27 de Noviembre).
 
-| Semana | Fecha | Tópico / Actividad | Enlace al Material |
+<!-- | Semana | Fecha | Tópico / Actividad | Enlace al Material |
 | :--- | :--- | :--- | :--- |
 | **Lab 00** | 06 de Marzo | Introduccion a Jupyter Notebook (autoestudio, no es presencial) | [Lab 00](./LabIntro/)|
 | **Lab 01** | 13 de Marzo | Introducción a Python Científico & Aritmética de Punto Flotante   | [Lab 01](./Lab01/) |
@@ -42,7 +42,27 @@ A continuación se detalla la planificación del primer semestre de 2026 (04 de 
 | **—** | 05 de Junio | *Interrogacion III - 02 de Junio* |  — |
 | **Lab 08** | 12 de Junio | Aproximación de Funciones (Mínimos Cuadrados) - evaluaci&oacute;n|  [Lab 08](./Lab08/) |
 | **Lab 09** | 19 de Junio | Diferenciación Numérica |  [Lab 09](./Lab09/) |
-| **Lab 10** | 26 de Junio | Integración Numérica - evaluaci&oacute;n |  [Lab 10](./Lab10/) |
+| **Lab 10** | 26 de Junio | Integración Numérica - evaluaci&oacute;n |  [Lab 10](./Lab10/) | -->
+
+| Semana | Fecha | Tópico / Actividad | Enlace al Material |
+| :--- | :--- | :--- | :--- |
+| **Lab 00** | 07 de agosto | Introduccion a Jupyter Notebook (autoestudio, no es presencial) | [Lab 00](./LabIntro/)|
+| **Lab 01** | 14 de agosto | Introducción a Python Científico & Aritmética de Punto Flotante   | [Lab 01](./Lab01/lab01.ipynb) |
+| **Lab 02** | 21 de agosto | Sistemas Lineales: Métodos Directos - evaluaci&oacute;n  | [Lab 02](./Lab02/) |
+| **Lab 03** | 28 de agosto | Normas, n&uacute;mero de condici&oacute;n, m&eacute;todos iterativos | [Lab 03](./Lab03/) |
+| **-** | 04 de septiembre | *Interrogaci&oacute;on 1*, 02 de septiembre | | 
+| **Lab 04** | 11 de septiembre |Métodos Iterativos (Jacobi, Gauss-Seidel) - evaluaci&oacute;n | [Lab 04](./Lab04/) |
+| **Feriado legal** | 18 de septiembre |  
+| **Receso de docencia** |  25 de septiembre| — |  — |
+| **Lab 05** | 02 de octubre | Valores y vectores propios | [Lab 05](./Lab05/) |
+| **-**  | 09 de octubre | *Interrogaci&oacute;n 2*, 07 de octubre | |
+| **Lab 06** | 16 de octubre | Ecuaciones no lineales - evaluaci&oacute;n|  [Lab 06](./Lab06/) |
+| **Lab 07** | 23 de octubre | Interpolación Polinomial - evaluaci&oacute;n|  [Lab 07](./Lab07/) |
+| **Lab 08** | 30 de octubre | Aproximación de Funciones (Mínimos Cuadrados) - evaluaci&oacute;n|  [Lab 08](./Lab08/) |
+| **-** | 06 de noviembre | *Interrogaci&oacute;n 3*, 04 de noviembre|   |
+| **Lab 09** | 13 de noviembre | Diferenciación Numérica |  [Lab 09](./Lab09/) |
+| **Lab 10** | 20 de noviembre | Integración Numérica - evaluaci&oacute;n |  [Lab 10](./Lab10/) |
+| **Lab rec.** | 27 de noviembre |  |  |
 
 **Instrucciones de instalación vía `pip`:**
 Abre tu terminal (o símbolo del sistema en Windows) y ejecuta el siguiente comando:
@@ -60,4 +80,4 @@ Las entregas se realizarán a través de [Canvas/GitHub Classroom] antes del ini
 3.  Sube tu solución a tu repositorio personal o envíalo según las indicaciones del ayudante.
 -->
 ---
-*Última actualización: Mayo 2026*
+*Última actualización: Agosto 2026*
