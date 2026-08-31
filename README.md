@@ -48,20 +48,20 @@ A continuación se detalla la planificación del **segundo semestre de 2026** (0
 | :--- | :--- | :--- | :--- | :--- |
 | **Lab 00** | 07 de agosto | Introduccion a Jupyter Notebook (autoestudio, no es presencial) | [Lab 00](./LabIntro/lab00.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/LabIntro/lab00.ipynb ) |
 | **Lab 01** | 14 de agosto | Introducción a Python Científico & Aritmética de Punto Flotante   | [Lab 01](./Lab01/lab01.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab01/lab01.ipynb ) |
-| **Lab 02** | 21 de agosto | Sistemas Lineales: Métodos Directos - evaluaci&oacute;n  | [Lab 02](./Lab02/lab02.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab02/lab02.ipynb ) |
+| **Lab 02** | 21 de agosto | Sistemas Lineales: Métodos Directos  | [Lab 02](./Lab02/lab02.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab02/lab02.ipynb ) |
 | **Lab 03** | 28 de agosto | Normas, n&uacute;mero de condici&oacute;n, m&eacute;todos iterativos | [Lab 03](./Lab03/lab03.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab03/lab03.ipynb ) |
 | **—** | 04 de septiembre | *Interrogaci&oacute;n 1*, 02 de septiembre | — | — | 
-| **Lab 04** | 11 de septiembre |Métodos Iterativos (Jacobi, Gauss-Seidel) - evaluaci&oacute;n | [Lab 04](./Lab04/lab04.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab04/lab04.ipynb ) |
+| **Lab 04** | 11 de septiembre |Métodos Iterativos (Jacobi, Gauss-Seidel) | [Lab 04](./Lab04/lab04.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab04/lab04.ipynb ) |
 | **—** | 18 de septiembre |   Feriado legal | — | — |
 | **Lab 05** | 25 de septiembre | Valores y vectores propios | [Lab 05](./Lab05/lab05.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab05/lab05.ipynb ) |
 | **Lab 05** | 02 de octubre | Valores y vectores propios | [Lab 06](./Lab06/lab06.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab06/lab06.ipynb ) |
 | **-**  | 09 de octubre | *Interrogaci&oacute;n 2*, 07 de octubre | — | — |
-| **Lab 06** | 16 de octubre | Ecuaciones no lineales - evaluaci&oacute;n|  [Lab 06](./Lab06/lab06.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab06/lab06.ipynb ) |
-| **Lab 07** | 23 de octubre | Interpolación Polinomial - evaluaci&oacute;n|  [Lab 07](./Lab07/lab07.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab07/lab07.ipynb ) |
-| **Lab 08** | 30 de octubre | Aproximación de Funciones (Mínimos Cuadrados) - evaluaci&oacute;n|  [Lab 08](./Lab08/lab08.ipynb) |[Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab08/lab08.ipynb ) |
+| **Lab 06** | 16 de octubre | Ecuaciones no lineales |  [Lab 06](./Lab06/lab06.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab06/lab06.ipynb ) |
+| **Lab 07** | 23 de octubre | Interpolación Polinomial|  [Lab 07](./Lab07/lab07.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab07/lab07.ipynb ) |
+| **Lab 08** | 30 de octubre | Aproximación de Funciones (Mínimos Cuadrados) |  [Lab 08](./Lab08/lab08.ipynb) |[Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab08/lab08.ipynb ) |
 | **—** | 06 de noviembre | *Interrogaci&oacute;n 3*, 04 de noviembre| — | — |
 | **Lab 09** | 13 de noviembre | Diferenciación Numérica |  [Lab 09](./Lab09/lab09.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab09/lab09.ipynb ) |
-| **Lab 10** | 20 de noviembre | Integración Numérica - evaluaci&oacute;n |  [Lab 10](./Lab10/lab10.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab10/lab10.ipynb ) |
+| **Lab 10** | 20 de noviembre | Integración Numérica  |  [Lab 10](./Lab10/lab10.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab10/lab10.ipynb ) |
 | **Lab rec.** | 27 de noviembre | — | — | — |
 
 **Instrucciones de instalación vía `pip`:**
