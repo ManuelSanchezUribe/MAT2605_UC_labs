@@ -53,7 +53,7 @@ A continuación se detalla la planificación del **segundo semestre de 2026** (0
 | **—** | 04 de septiembre | *Interrogaci&oacute;n 1*, 02 de septiembre | — | — | 
 | **Lab 04** | 11 de septiembre |Métodos Iterativos (Jacobi, Gauss-Seidel) | [Lab 04](./Lab04/lab04.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab04/lab04.ipynb ) |
 | **—** | 18 de septiembre |   Feriado legal | — | — |
-| **Lab 05** | 25 de septiembre | Valores y vectores propios | [Lab 05](./Lab05/lab05.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab05/lab05.ipynb ) |
+| **Lab 05** | 25 de septiembre | Métodos Iterativos  y Valores y vectores propios | [Lab 05](./Lab05/lab05.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab05/lab05.ipynb ) |
 | **Lab 06** | 02 de octubre | Valores y vectores propios | [Lab 06](./Lab06/lab06.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab06/lab06.ipynb ) |
 | **-**  | 09 de octubre | *Interrogaci&oacute;n 2*, 07 de octubre | — | — |
 | **Lab 07** | 16 de octubre | Ecuaciones no lineales |  [Lab 07](./Lab07/lab07.ipynb) | [Open in Colab](https://colab.research.google.com/github/ManuelSanchezUribe/MAT2605_UC_labs/blob/main/Lab07/lab07.ipynb ) |
